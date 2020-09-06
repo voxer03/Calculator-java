@@ -8,3 +8,6 @@ A simple GUI calculator with basic operations like
 # Basic-info
 developed swing library of java.
 It can handle chain operations also.
+
+# Run
+Run CalculatorIMPL.java using java jdk or any IDE like Ecllipse, Netbeans.
