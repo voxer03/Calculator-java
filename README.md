@@ -10,4 +10,4 @@ developed swing library of java.
 It can handle chain operations also.
 
 # Run
-Run CalculatorIMPL.java using java jdk or any IDE like Ecllipse, Netbeans.
+Run CalculatorIMPL.java using java compiler or any IDE like Ecllipse, Netbeans.
